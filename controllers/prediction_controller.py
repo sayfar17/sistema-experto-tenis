@@ -1,0 +1,1 @@
+# Coordina UI ↔ lógica
